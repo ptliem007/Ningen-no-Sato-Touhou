@@ -1,0 +1,41 @@
+
+game.png
+size: 432,100
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+NationIcons/Ningen no Sato
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Youkai Hunters
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 100, 100
+  index: -1
+BuildingIcons/Village Water Mill
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 100, 100
+  index: -1
+BuildingIcons/Village Shop
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 100, 100
+  index: -1
+TileSets/FantasyHex/Units/Youkai Hunters
+rotate: false
+  xy: 400, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
